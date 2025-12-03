@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f541085f-5d5d-44d3-9396-28a88da1c46c" name="Changes" comment="feat-25120303: 优化" />
+    <list default="true" id="f541085f-5d5d-44d3-9396-28a88da1c46c" name="Changes" comment="feat-25120304: 优化">
+      <change beforePath="$PROJECT_DIR$/assets/index-BITbesjc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,6 +59,7 @@
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="U:\Users\Enlink\WebstormProjects\lvxy-git.github.io" />
+      <recent name="U:\Users\Enlink\WebstormProjects\lvxy-git.github.io\assets" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -74,6 +78,7 @@
       <updated>1764671558171</updated>
       <workItem from="1764671559292" duration="2758000" />
       <workItem from="1764730047757" duration="2128000" />
+      <workItem from="1764733044697" duration="1040000" />
     </task>
     <task id="LOCAL-00001" summary="修改主页">
       <option name="closed" value="true" />
@@ -131,7 +136,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764732309431</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="feat-25120304: 优化">
+      <option name="closed" value="true" />
+      <created>1764733247671</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1764733247671</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,6 +156,7 @@
     <MESSAGE value="feat: 251203优化" />
     <MESSAGE value="feat-25120302: 优化" />
     <MESSAGE value="feat-25120303: 优化" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat-25120303: 优化" />
+    <MESSAGE value="feat-25120304: 优化" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat-25120304: 优化" />
   </component>
 </project>

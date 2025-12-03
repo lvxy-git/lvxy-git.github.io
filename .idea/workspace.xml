@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f541085f-5d5d-44d3-9396-28a88da1c46c" name="Changes" comment="feat-25120304: 优化">
-      <change beforePath="$PROJECT_DIR$/assets/index-BITbesjc.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    <list default="true" id="f541085f-5d5d-44d3-9396-28a88da1c46c" name="Changes" comment="feat-25120305: 优化">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +77,7 @@
       <updated>1764671558171</updated>
       <workItem from="1764671559292" duration="2758000" />
       <workItem from="1764730047757" duration="2128000" />
-      <workItem from="1764733044697" duration="1040000" />
+      <workItem from="1764733044697" duration="2525000" />
     </task>
     <task id="LOCAL-00001" summary="修改主页">
       <option name="closed" value="true" />
@@ -144,7 +143,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764733247671</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="feat-25120305: 优化">
+      <option name="closed" value="true" />
+      <created>1764734124514</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1764734124514</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -157,6 +164,7 @@
     <MESSAGE value="feat-25120302: 优化" />
     <MESSAGE value="feat-25120303: 优化" />
     <MESSAGE value="feat-25120304: 优化" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat-25120304: 优化" />
+    <MESSAGE value="feat-25120305: 优化" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat-25120305: 优化" />
   </component>
 </project>

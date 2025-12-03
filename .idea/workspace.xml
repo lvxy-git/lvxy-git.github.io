@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f541085f-5d5d-44d3-9396-28a88da1c46c" name="Changes" comment="feat: 251203优化">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="f541085f-5d5d-44d3-9396-28a88da1c46c" name="Changes" comment="feat-25120302: 优化">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +75,7 @@
       <option name="presentableId" value="Default" />
       <updated>1764671558171</updated>
       <workItem from="1764671559292" duration="2758000" />
-      <workItem from="1764730047757" duration="600000" />
+      <workItem from="1764730047757" duration="1392000" />
     </task>
     <task id="LOCAL-00001" summary="修改主页">
       <option name="closed" value="true" />
@@ -117,7 +117,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764729656627</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="feat-25120302: 优化">
+      <option name="closed" value="true" />
+      <created>1764730741889</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1764730741889</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,6 +135,7 @@
     <MESSAGE value="修改主页" />
     <MESSAGE value="fix: 251202优化" />
     <MESSAGE value="feat: 251203优化" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: 251203优化" />
+    <MESSAGE value="feat-25120302: 优化" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat-25120302: 优化" />
   </component>
 </project>

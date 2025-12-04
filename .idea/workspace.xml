@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f541085f-5d5d-44d3-9396-28a88da1c46c" name="Changes" comment="feat-25120305: 优化">
+    <list default="true" id="f541085f-5d5d-44d3-9396-28a88da1c46c" name="Changes" comment="feat-25120309: 样式优化">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -14,6 +14,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -38,27 +39,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;U:/Users/Enlink/WebstormProjects/lvxy-git.github.io&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "U:/Users/Enlink/WebstormProjects/lvxy-git.github.io",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="U:\Users\Enlink\WebstormProjects\lvxy-git.github.io" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="U:\Users\Enlink\WebstormProjects\lvxy-git.github.io" />
       <recent name="U:\Users\Enlink\WebstormProjects\lvxy-git.github.io\assets" />
+      <recent name="U:\Users\Enlink\WebstormProjects\lvxy-git.github.io" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -77,7 +79,9 @@
       <updated>1764671558171</updated>
       <workItem from="1764671559292" duration="2758000" />
       <workItem from="1764730047757" duration="2128000" />
-      <workItem from="1764733044697" duration="2525000" />
+      <workItem from="1764733044697" duration="5043000" />
+      <workItem from="1764763371414" duration="689000" />
+      <workItem from="1764811555986" duration="1076000" />
     </task>
     <task id="LOCAL-00001" summary="修改主页">
       <option name="closed" value="true" />
@@ -151,7 +155,55 @@
       <option name="project" value="LOCAL" />
       <updated>1764734124514</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="feat-25120306">
+      <option name="closed" value="true" />
+      <created>1764756855896</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1764756855896</updated>
+    </task>
+    <task id="LOCAL-00011" summary="feat-25120307">
+      <option name="closed" value="true" />
+      <created>1764757266334</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1764757266334</updated>
+    </task>
+    <task id="LOCAL-00012" summary="feat-25120307">
+      <option name="closed" value="true" />
+      <created>1764757279269</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1764757279269</updated>
+    </task>
+    <task id="LOCAL-00013" summary="feat-25120308: 布局优化">
+      <option name="closed" value="true" />
+      <created>1764762165941</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1764762165941</updated>
+    </task>
+    <task id="LOCAL-00014" summary="feat-25120308: 布局优化">
+      <option name="closed" value="true" />
+      <created>1764762817052</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1764762817052</updated>
+    </task>
+    <task id="LOCAL-00015" summary="feat-25120309: 样式优化">
+      <option name="closed" value="true" />
+      <created>1764766142543</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1764766142543</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -165,6 +217,10 @@
     <MESSAGE value="feat-25120303: 优化" />
     <MESSAGE value="feat-25120304: 优化" />
     <MESSAGE value="feat-25120305: 优化" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat-25120305: 优化" />
+    <MESSAGE value="feat-25120306" />
+    <MESSAGE value="feat-25120307" />
+    <MESSAGE value="feat-25120308: 布局优化" />
+    <MESSAGE value="feat-25120309: 样式优化" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat-25120309: 样式优化" />
   </component>
 </project>
